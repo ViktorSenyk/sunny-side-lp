@@ -11,10 +11,10 @@ const Footer = () => {
                 <a href="#">Projects</a>
             </ButtonGroup>
             <SocialGroup>
-                <a href="#"></a>
-                <a href="#"></a>
-                <a href="#"></a>
-                <a href="#"></a>
+                <a href="#"/>
+                <a href="#"/>
+                <a href="#"/>
+                <a href="#"/>
             </SocialGroup>
         </Container>
     );
